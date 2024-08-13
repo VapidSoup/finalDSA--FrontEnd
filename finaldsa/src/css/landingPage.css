@@ -1,0 +1,32 @@
+.header {
+  background-color: #b59ce4;
+  padding: 20px;
+  text-align: center;
+  font-size: 24px;
+  color: #333;
+}
+
+.create-a-tree {
+  background-color: #d69ce4;
+  display: flex;
+  justify-content: center;
+  padding-left: 30px;
+}
+
+.inputbox {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  align-items: center;
+}
+
+.input1 {
+  width: 250px;
+  height: 35px;
+  background-color: aliceblue;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  justify-content: center;
+  margin-right: 35px;
+  display: flex;
+}
